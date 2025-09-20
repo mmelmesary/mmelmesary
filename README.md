@@ -3,8 +3,9 @@
 
 - 📫 How to reach me **mohamed.elmasary123@gmail.com**
 
-- 📄 Know about my experiences [Muhammad Elmesary Resume](https://drive.google.com/file/d/1KCP-BXyC5P5Rzh1Y8-ASSLuLrS8Q_8Ch/view?usp=drive_link)
+- 📄 Know about my experiences [Muhammad Elmesary Resume](https://drive.google.com/file/d/19dbKjKOl421l4VkfR-PxP4TnUHFtqZ3v/view?usp=drive_link)
 
+- Medium Articles [here](https://medium.com/@mohamed.elmasary123) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadelmesary123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadelmesary123" height="30" width="40" /></a>
