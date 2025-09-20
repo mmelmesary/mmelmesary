@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Elmesary</h1>
-<h3 align="center">🚀 DevOps & SRE Engineer | Cloud | Kubernetes | Terraform | CI/CD Automation</h3>
+<h3 align="center">🚀 Senior DevOps & SRE Engineer | Cloud | Kubernetes | Terraform | CI/CD Automation</h3>
 
 <p align="center">
   <a href="mailto:mohamed.elmasary123@gmail.com">
@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌍 Based in Egypt, working as a **DevOps & Cloud Platform Engineer**  
+- 🌍 working as a ** Senior DevOps & Cloud Platform Engineer**  
 - 💡 Passionate about **automation, scalability, and reliability**  
 - ☁️ Skilled in **AWS, Azure, GCP**, Kubernetes, Terraform, and CI/CD pipelines  
 - 🔍 Focused on **monitoring, performance optimization, and infrastructure as code**  
@@ -36,16 +36,22 @@ AWS | Azure | GCP
 Terraform | Ansible | Helm  
 
 **🐳 Containers & Orchestration**  
-Docker | Kubernetes | EKS  
+Docker | Kubernetes 
 
 **⚙️ CI/CD & DevOps Tools**  
-Jenkins | GitHub Actions | Azure DevOps  
+Jenkins | GitHub Actions | Azure DevOps 
+
+**🛠️ GitOps**  
+ArgoCD
 
 **📊 Monitoring & Logging**  
 Datadog | Grafana | ELK Stack | CloudWatch  
 
 **💻 Programming & Scripting**  
-Python | Bash | Go  
+Python | Bash | Go
+
+**Service Mesh**
+Istio
 
 ---
 
@@ -55,16 +61,6 @@ Python | Bash | Go
   <img src="https://github-readme-stats.vercel.app/api?username=mmelmesary&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmelmesary&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
-
----
-
-### ✍️ Latest Articles  
-
-- [Getting Started with Monitoring-as-Code using Datadog & Terraform](https://medium.com/@mohamed.elmasary123)  
-- [Scaling Microservices on Kubernetes with KEDA](https://medium.com/@mohamed.elmasary123)  
-- [Building CI/CD Pipelines with Azure DevOps & Terraform](https://medium.com/@mohamed.elmasary123)  
-
-👉 More on [Medium](https://medium.com/@mohamed.elmasary123)  
 
 ---
 
