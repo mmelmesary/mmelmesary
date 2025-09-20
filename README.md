@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌍 working as a ** Senior DevOps & Cloud Platform Engineer**  
+- 🌍 Working as a **Senior DevOps & Cloud Platform Engineer**  
 - 💡 Passionate about **automation, scalability, and reliability**  
 - ☁️ Skilled in **AWS, Azure, GCP**, Kubernetes, Terraform, and CI/CD pipelines  
 - 🔍 Focused on **monitoring, performance optimization, and infrastructure as code**  
@@ -36,43 +36,29 @@ AWS | Azure | GCP
 Terraform | Ansible | Helm  
 
 **🐳 Containers & Orchestration**  
-Docker | Kubernetes 
+Docker | Kubernetes  
 
 **⚙️ CI/CD & DevOps Tools**  
-Jenkins | GitHub Actions | Azure DevOps 
+Jenkins | GitHub Actions | Azure DevOps  
 
 **🛠️ GitOps**  
-ArgoCD
+ArgoCD  
 
 **📊 Monitoring & Logging**  
 Datadog | Grafana | ELK Stack | CloudWatch  
 
 **💻 Programming & Scripting**  
-Python | Bash | Go
+Python | Bash | Go  
 
-**Service Mesh**
-Istio
+**🔗 Service Mesh**  
+Istio  
 
----
 
 ### 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmelmesary&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmelmesary&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-### 🤝 Connect with Me  
-
-<p align="left">
-<a href="https://linkedin.com/in/muhammadelmesary123" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://medium.com/@mohamed.elmasary123" target="blank">
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-medium-logo-3614416-3018497.png?f=webp&w=40" height="30" width="40" />
-</a>
 </p>
 
 ---
