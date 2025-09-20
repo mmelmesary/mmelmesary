@@ -1,17 +1,86 @@
 <h1 align="center">Hi 👋, I'm Muhammad Elmesary</h1>
-<h3 align="center"> DevOps/SRE engineer</h3>
+<h3 align="center">🚀 Senior DevOps & SRE Engineer | Cloud | Kubernetes | Terraform | CI/CD Automation</h3>
 
-- 📫 How to reach me **mohamed.elmasary123@gmail.com**
-
-- 📄 Know about my experiences [Muhammad Elmesary Resume](https://drive.google.com/file/d/19dbKjKOl421l4VkfR-PxP4TnUHFtqZ3v/view?usp=drive_link)
-
-- Medium Articles [here](https://medium.com/@mohamed.elmasary123) 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadelmesary123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadelmesary123" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:mohamed.elmasary123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadelmesary123">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mohamed.elmasary123">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/19dbKjKOl421l4VkfR-PxP4TnUHFtqZ3v/view">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmelmesary&show_icons=true&locale=en&layout=compact" alt="mmelmesary" /></p>
+### 👨‍💻 About Me  
+- 🌍 Working as a **Senior DevOps & Cloud Platform Engineer**  
+- 💡 Passionate about **automation, scalability, and reliability**  
+- ☁️ Skilled in **AWS, Azure, GCP**, Kubernetes, Terraform, and CI/CD pipelines  
+- 🔍 Focused on **monitoring, performance optimization, and infrastructure as code**  
+- ✍️ I share insights on **cloud, Kubernetes, and DevOps best practices** on [Medium](https://medium.com/@mohamed.elmasary123)  
+
+---
+
+### 🔧 Tech Stack  
+
+**☁️ Cloud & Platforms**  
+AWS | Azure | GCP  
+
+**🛠️ Infrastructure & Automation**  
+Terraform | Ansible | Helm  
+
+**🐳 Containers & Orchestration**  
+Docker | Kubernetes  
+
+**⚙️ CI/CD & DevOps Tools**  
+Jenkins | GitHub Actions | Azure DevOps  
+
+**🛠️ GitOps**  
+ArgoCD  
+
+**📊 Monitoring & Logging**  
+Datadog | Grafana | ELK Stack | CloudWatch  
+
+**💻 Programming & Scripting**  
+Python | Bash | Go  
+
+**🔗 Service Mesh**  
+Istio  
+
+---
+
+### 🚀 Highlighted Projects  
+
+- **🔹 Monitoring-as-Code with Terraform & Datadog**  
+  Automated Datadog monitor creation for application services and APIs using Terraform, ensuring consistency and faster deployments.  
+
+- **🔹 PagerDuty Service Dependencies via Terraform**  
+  Built a complete structure of PagerDuty business & technical services, automating incident management workflows.  
+
+- **🔹 Multi-Cluster EKS Deployment with Helm/Helmfile**  
+  Designed Kubernetes deployments with pod isolation per market (country-based), integrated with AWS ALB & Route53.  
+
+- **🔹 GitOps with ArgoCD & Image Updater**  
+  Implemented ArgoCD with automated image updates for Kubernetes workloads, enabling continuous delivery of container images.  
+
+- **🔹 Canary Deployments for AWS Lambda**  
+  Used API Gateway + Lambda with dynamic traffic shifting for safe rollouts, fully integrated into Azure DevOps pipelines.  
+
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmelmesary&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmelmesary&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+⚡ **Fun fact**: I love automating boring tasks and breaking production (just to fix it better 😉)  
